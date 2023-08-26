@@ -4,7 +4,7 @@
 
 By Dr. Angela Yu
 
-*Day 22 of 100:* Flashcard App Capstone Project
+*Day 22 of 100:* Build Pong - The Famous Arcade Game
 
 ## Project Specs
 
